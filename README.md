@@ -2,7 +2,7 @@
 <div>
 <br/>
 - 👀 I’m interested in software development, artificial intelligence, SDLC and data science.<br/>
-- 🌱 I’m currently learning React.js, improving my skills in Django a Python Framework, SpringBoot, and Node js.<br/>
+- 🌱 I’m currently learning Flutter , improving my skills in Django a Python Framework, SpringBoot, React.js, Express.js and Node js.<br/>
 - 💞️ I’m looking to collaborate on open-source projects related to Mobile or web development.<br/>
 📫 You can reach me via email at <a href="mailto:ejioforkelvin@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" /></a> or connect with me on LinkedIn <a href="https://www.linkedin.com/in/kevin-ejiofor-476487283/"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" /></a> 
 
